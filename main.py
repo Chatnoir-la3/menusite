@@ -1,6 +1,9 @@
 import streamlit as st
 from PIL import Image
 
+# ページ設定を初期化
+st.set_page_config(page_title="Cafe Ritsuan", layout="wide")
+
 # 言語データの辞書
 languages = {
     "English": {
