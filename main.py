@@ -1,7 +1,7 @@
 import streamlit as st
 from PIL import Image
 
-# 言語データの辞書r
+# 言語データの辞書
 languages = {
     "English": {
         "title": "Cafe Ritsuan",
